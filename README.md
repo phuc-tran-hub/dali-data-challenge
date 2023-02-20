@@ -13,16 +13,7 @@ Submission.ipynb includes three data visualizations with the supermarket dataset
 The file also includes a deep learning model predicting the profits based on  the sales, the quantities, and the discounts of the order.
 
 ### Execution
-1. Create a conda environment with the following frameworks.
-  1. Plotly
-  2. Pandas
-  3. Torch
-  4. Numpy
-  5. Matplotlib
-  6. Geopy
-  7. Collections
-  8. Statistics
-
-1. Launch conda environment with `conda activate [env name]`
-2. Enter `jupyter-notebook` with the the same conda environment
-3. Run all cells on `submission.ipynb`
+1. Create a conda environment with the following frameworks: Plotly, Pandas, Torch, Numpy, Matplotlib, and Geopy
+2. Launch conda environment with `conda activate [env name]`
+3. Enter `jupyter-notebook` with the the same conda environment
+4. Run all cells on `submission.ipynb`
